@@ -1,0 +1,55 @@
+[21-Mar-2017 12:40:03 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:40:04 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:46:13 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (404) at position 0 (4): Unexpected character' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('404')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:46:24 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:46:24 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:54:09 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:54:09 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:58:07 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 12:58:08 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 13:05:32 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
+[21-Mar-2017 13:05:32 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (envio exitoso) at position 0 (e): The timezone could not be found in the database' in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php:34
+Stack trace:
+#0 /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php(34): DateTime->__construct('envio exitoso')
+#1 {main}
+  thrown in /home/intuitiv/public_html/cabal/webservices/registrar_consumo_maquinaria.php on line 34
